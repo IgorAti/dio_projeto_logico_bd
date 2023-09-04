@@ -50,9 +50,8 @@ Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
 
-## IDE utilizada:
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
-          
+## Tecnologia utilizada:
+&nbsp;&nbsp;<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />          
 
 ## Linguagem:
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
